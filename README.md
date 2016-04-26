@@ -1,3 +1,7 @@
-# aim-workshop-sample
-A sample repository for the folks at the AIM Mathbook XML event
-Here is Michelle's edit to the file.
+# Readme DOT awesome
+
+THIS FILE IS TOTALLY EDITED!!!!!ELENVE!!!
+
+There is nothing left here.
+
+Get ready for the merge conflict.
