@@ -2,6 +2,9 @@
 
 THIS FILE IS TOTALLY EDITED!!!!!ELENVE!!!
 
-There is nothing left here.
-
 Get ready for the merge conflict.
+
+A sample repository for the folks at the AIM Mathbook XML event
+Oh, never mind!
+And here is Kent's edit.
+
